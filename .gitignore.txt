@@ -1,0 +1,13 @@
+data/*.xlsx
+data/sales_transactions.csv
+
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+.vscode/
+
+.DS_Store
+Thumbs.db
