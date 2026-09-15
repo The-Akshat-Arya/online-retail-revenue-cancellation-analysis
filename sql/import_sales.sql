@@ -1,3 +1,5 @@
+-- loads the cleaned sales export into sales_transactions
+
 USE online_retail_analysis;
 TRUNCATE TABLE sales_transactions;
 LOAD DATA LOCAL INFILE

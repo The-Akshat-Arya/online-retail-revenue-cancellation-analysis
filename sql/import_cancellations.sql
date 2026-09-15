@@ -1,3 +1,5 @@
+-- creates cancelled_transactions and loads the cancellations export
+
 USE online_retail_analysis;
 
 CREATE TABLE IF NOT EXISTS cancelled_transactions (

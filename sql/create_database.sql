@@ -1,3 +1,5 @@
+-- base schema for the online retail dataset
+
 CREATE DATABASE IF NOT EXISTS online_retail_analysis;
 
 USE online_retail_analysis;
